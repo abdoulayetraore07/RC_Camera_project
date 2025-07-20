@@ -1,4 +1,4 @@
-# 📷 Autonomous Car Camera Object Detection
+# Autonomous Car Camera Object Detection
 
 ## 📌 Description
 This team project with Joseph Mouscadet, Simon Drouet and Maxime Kunsch implements **camera-based object detection** for optimizing vehicle navigation in autonomous driving applications. The implementation utilizes **YOLOv5 models** for real-time object detection through a vehicle-mounted camera system.
@@ -7,16 +7,16 @@ The project focuses on efficient detection algorithms that can run on resource-c
 
 ---
 
-## 🛠️ Features
-✅ **Real-time Object Detection** - Using YOLOv5 variants optimized for speed and accuracy  
-✅ **Model Optimization** - NCNN conversion for embedded deployment  
-✅ **Multiple Detection Modes** - Standard, real-time, and centered detection options  
-✅ **Extensive Testing Framework** - Comprehensive testing for various scenarios  
-✅ **Cross-platform Compatibility** - Works across different operating systems and hardware  
+## Features
+ **Real-time Object Detection** - Using YOLOv5 variants optimized for speed and accuracy  
+ **Model Optimization** - NCNN conversion for embedded deployment  
+ **Multiple Detection Modes** - Standard, real-time, and centered detection options  
+ **Extensive Testing Framework** - Comprehensive testing for various scenarios  
+ **Cross-platform Compatibility** - Works across different operating systems and hardware  
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 /rc_camera_project
